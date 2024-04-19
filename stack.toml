@@ -1,0 +1,153 @@
+[arch]
+name = "Arch Linux"
+description = ""
+
+[linux]
+name = "Linux"
+description = ""
+
+[i3]
+name = "i3"
+description = ""
+
+[alacritty]
+name = "Alacritty"
+description = ""
+
+
+
+[rust]
+name = "Rust"
+description = ""
+link = "https://github.com/mrsobakin?tab=repositories&q=&type=&language=rust"
+themed_icons = true
+
+[cpp]
+name = "C++"
+description = ""
+link = "https://github.com/mrsobakin?tab=repositories&q=&type=&language=c%2B%2B"
+
+[python]
+name = "Python"
+description = ""
+link = "https://github.com/mrsobakin?tab=repositories&q=&type=&language=python"
+
+[go]
+name = "Go"
+description = ""
+link = "https://github.com/mrsobakin?tab=repositories&q=&type=&language=go"
+
+[javascript]
+name = "Javascript"
+description = ""
+link = "https://github.com/mrsobakin?tab=repositories&q=&type=&language=javascript"
+
+[java]
+name = "Java"
+description = ""
+link = "https://github.com/mrsobakin?tab=repositories&q=&type=&language=java"
+
+
+
+[sqlite]
+name = "SQLite"
+description = ""
+
+
+
+[bash]
+name = "Bash"
+description = ""
+link = "https://github.com/mrsobakin/scripts"
+themed_icons = true
+
+[lua]
+name = "Lua"
+description = ""
+
+[docker]
+name = "Docker"
+description = ""
+
+[git]
+name = "Git"
+description = ""
+
+[github]
+name = "GitHub"
+description = ""
+themed_icons = true
+
+[nvim]
+name = "NeoVim"
+description = ""
+
+[md]
+name = "Markdown"
+description = ""
+themed_icons = true
+
+[regex]
+name = "Regex"
+description = ""
+themed_icons = true
+
+
+[ffmpeg]
+name = "FFmpeg"
+description = ""
+
+[wine]
+name = "Wine"
+description = ""
+themed_icons = true
+
+[gimp]
+name = "GIMP"
+description = ""
+
+
+
+[arduino]
+name = "Arduino"
+description = ""
+
+
+
+[react]
+name = "React"
+description = ""
+
+[fastapi]
+name = "FastAPI"
+description = ""
+
+[flask]
+name = "Flask"
+description = ""
+themed_icons = true
+
+
+
+[qemu]
+name = "Qemu"
+description = ""
+
+[wireshark]
+name = "Wireshark"
+description = ""
+themed_icons = true
+
+[mitmproxy]
+name = "mitmproxy"
+description = ""
+
+
+
+[minecraft]
+name = "Minecraft"
+description = ""
+
+[spigot]
+name = "Spigot"
+description = ""
