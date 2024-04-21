@@ -3,7 +3,7 @@ from collections.abc import Mapping
 from pathlib import Path
 
 
-ICONS = Path("./assets/")
+ICONS = Path("./assets/icons/")
 
 
 def _link(base: str, link: str) -> str:
