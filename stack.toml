@@ -114,6 +114,11 @@ description = ""
 
 
 
+[tokio]
+name = "Tokio"
+description = ""
+themed_icons = true
+
 [react]
 name = "React"
 description = ""
