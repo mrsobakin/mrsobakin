@@ -1,6 +1,8 @@
+# General
+
 [arch]
 name = "Arch Linux"
-description = ""
+description = "My daily driver, btw"
 
 [linux]
 name = "Linux"
@@ -8,17 +10,20 @@ description = ""
 
 [i3]
 name = "i3"
-description = ""
+description = "I'll switch to Sway. Some day. Eventually. Before very long. Sooner or later. In time to come. Certainly..."
 
 [alacritty]
 name = "Alacritty"
 description = ""
 
 
+# Programming languages
 
 [rust]
 name = "Rust"
-description = ""
+description = """💖🦀
+Befriended the borrow checker. Not the lifetimes though.
+Click to see things I wrote in Rust."""
 link = "https://github.com/mrsobakin?tab=repositories&q=&type=&language=rust"
 themed_icons = true
 
@@ -29,35 +34,40 @@ link = "https://github.com/mrsobakin?tab=repositories&q=&type=&language=c%2B%2B"
 
 [python]
 name = "Python"
-description = ""
+description = """This is probably the language I wrote most code in. It is slow as hell, is full of runtime exceptions, but it's simple and gets the job done. This readme was generated with python!
+Click to see things I wrote in Python."""
 link = "https://github.com/mrsobakin?tab=repositories&q=&type=&language=python"
 
 [go]
 name = "Go"
-description = ""
+description = """I love Go, but I think that I'm cursed. Every time, and I mean *EVERY* time that I decide to write something in Go, I have to reimplement basic things. I had to write my own MPMC channel once.
+Click to see things I wrote in Go."""
 link = "https://github.com/mrsobakin?tab=repositories&q=&type=&language=go"
 
 [javascript]
 name = "Javascript"
-description = ""
+description = "Javascript is so awful that its shittiness rolls over and it becomes good again."
 link = "https://github.com/mrsobakin?tab=repositories&q=&type=&language=javascript"
 
 [java]
 name = "Java"
-description = ""
+description = "For better or for worse, Java was _the_ language I learned to code in. But now I hate it. Well, just as any other sane person."
 link = "https://github.com/mrsobakin?tab=repositories&q=&type=&language=java"
 
 
+# Databases
 
 [sqlite]
 name = "SQLite"
 description = ""
 
 
+# Devtools
 
 [bash]
 name = "Bash"
-description = ""
+description = """I would like to say that I know bash, but I think that no one really does fully know it. I can write complex scripts, but I can never be sure that they won't break on some edge case.
+Click to go to repository with my useful scripts"""
 link = "https://github.com/mrsobakin/scripts"
 themed_icons = true
 
@@ -80,39 +90,48 @@ themed_icons = true
 
 [nvim]
 name = "NeoVim"
-description = ""
+description = """Don't know what to say about it. I write text in NeoVim. I even wrote a plugin for it in it.
+Click to check out my NeoVim config (it will never be finished)"""
+link = "https://github.com/mrsobakin/nvim-config/"
 
 [md]
 name = "Markdown"
-description = ""
+description = """You'll be the judge of my markdown skills."""
+# Click to see a write-up of hacks used in this README."""
 themed_icons = true
 
 [regex]
 name = "Regex"
-description = ""
+description = """My most favorite out of my most hated things thing. Regex is ugly and unreadable, slow, and always causes disasters. But ad-hoc, it's irreplaceable. Truly chaotic neutral.
+It's also fun to mess around with."""
+# Click to see my regex for divisibility by 13
 themed_icons = true
 
 
+# Everyday tools
+
 [ffmpeg]
 name = "FFmpeg"
-description = ""
+description = "I still can't remember how to resize a video"
 
 [wine]
 name = "Wine"
-description = ""
+description = "Except that I obviously use it, I am more or less familiar with its internals and the codebase. I tried to write my dlls with winelib, however I wasn't able to make it work with Rust. Better luck next time."
 themed_icons = true
 
 [gimp]
 name = "GIMP"
-description = ""
+description = "Better than photoshop. Change my mind."
 
 
+# Electrial engineering
 
 [arduino]
 name = "Arduino"
 description = ""
 
 
+# Libraries, frameworks
 
 [tokio]
 name = "Tokio"
@@ -133,6 +152,7 @@ description = ""
 themed_icons = true
 
 
+# Reverse engineering
 
 [qemu]
 name = "Qemu"
@@ -145,14 +165,15 @@ themed_icons = true
 
 [mitmproxy]
 name = "mitmproxy"
-description = ""
+description = "An important tool in my reverse engineering toolkit. Numerous bugs have been found and numerous services have been reverse engineered with its help."
 
 
+# Games :)
 
 [minecraft]
 name = "Minecraft"
-description = ""
+description = "Surprising to see a game in a tech stack, right? But there's a good reason why it's here - Minecraft was the main reason that brought me into computer science. It teached me the art of kludging, and I even decided to learn to code just so I could make mods for it. Needless to say that I still didn't make a single one :)."
 
 [spigot]
 name = "Spigot"
-description = ""
+description = "Back in the day, this was what cool kids used to run Minecraft servers. I never did run my own server back then, but I did wrote a ton of plugins for the spigot. It's the place where I got my unfortunate knowledge of Java."

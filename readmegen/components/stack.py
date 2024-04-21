@@ -59,6 +59,6 @@ def generate(stack: Mapping[str, Any]) -> str:
         component += "\n"
 
     component += """</div>\n"""
-    # component += """<div align="right"><sub>(<i>Hover on the icons to get more info</i> 😉)</sub></div>"""
+    component += """<div align="right"><sub>(<i>Hover on the icons to get more info</i> 😉)</sub></div>"""
 
     return component
