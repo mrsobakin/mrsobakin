@@ -36,7 +36,7 @@ OFFSET = 6 + (N_FRAMES * START_COLOR)
 BEZIER = "0.86,0,0.07,1"
 COLORS = ["fb1d2e",
           "ff7b00",
-          "ffff00",
+          "ffea00",
           "00ff00",
           "00ffff",
           "2b65f7",
