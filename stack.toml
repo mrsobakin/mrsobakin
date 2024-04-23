@@ -81,7 +81,7 @@ description = ""
 
 [git]
 name = "Git"
-description = ""
+description = "I know my `git push --force` and manual hunk editing around it. Though I'm nowhere near being a git master."
 
 [github]
 name = "GitHub"

@@ -45,7 +45,8 @@ I would like to say that I know bash, but I think that no one really does fully 
 Click to go to repository with my useful scripts" height="32"></picture></a>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/lua.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/lua.svg"><img src="assets/icons/lua.svg" alt="Lua" title="Lua" height="32"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/docker.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/docker.svg"><img src="assets/icons/docker.svg" alt="Docker" title="Docker" height="32"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/git.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/git.svg"><img src="assets/icons/git.svg" alt="Git" title="Git" height="32"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/git.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/git.svg"><img src="assets/icons/git.svg" alt="Git" title="Git
+I know my `git push --force` and manual hunk editing around it. Though I'm nowhere near being a git master." height="32"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/github.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/github_light.svg"><img src="assets/icons/github.svg" alt="GitHub" title="GitHub" height="32"></picture>
 <a href="https://github.com/mrsobakin/nvim-config/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/nvim.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/nvim.svg"><img src="assets/icons/nvim.svg" alt="NeoVim" title="NeoVim
 Don't know what to say about it. I write text in NeoVim. I even wrote a plugin for it in it.
