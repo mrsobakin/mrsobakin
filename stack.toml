@@ -34,8 +34,8 @@ link = "https://github.com/mrsobakin?tab=repositories&q=&type=&language=c%2B%2B"
 
 [python]
 name = "Python"
-description = """This is probably the language I wrote most code in. It is slow as hell, is full of runtime exceptions, but it's simple and gets the job done. This readme was generated with python!
-Click to see things I wrote in Python."""
+description = """This is probably the language I wrote most code in. It is slow as hell, is full of runtime exceptions, but it's simple and gets the job done. This readme was generated using Python!
+Click to see things I wrote in it."""
 link = "https://github.com/mrsobakin?tab=repositories&q=&type=&language=python"
 
 [go]
@@ -51,7 +51,7 @@ link = "https://github.com/mrsobakin?tab=repositories&q=&type=&language=javascri
 
 [java]
 name = "Java"
-description = "For better or for worse, Java was _the_ language I learned to code in. But now I hate it. Well, just as any other sane person."
+description = "For better or for worse, Java was *the* language I learned to code in. But now I hate it. Well, just as any other sane person."
 link = "https://github.com/mrsobakin?tab=repositories&q=&type=&language=java"
 
 
@@ -165,15 +165,15 @@ themed_icons = true
 
 [mitmproxy]
 name = "mitmproxy"
-description = "An important tool in my reverse engineering toolkit. Numerous bugs have been found and numerous services have been reverse engineered with its help."
+description = "An important tool in my reverse engineering toolkit. Numerous bugs have been found and numerous services have been reverse engineered with it."
 
 
 # Games :)
 
 [minecraft]
 name = "Minecraft"
-description = "Surprising to see a game in a tech stack, right? But there's a good reason why it's here - Minecraft was the main reason that brought me into computer science. It teached me the art of kludging, and I even decided to learn to code just so I could make mods for it. Needless to say that I still didn't make a single one :)."
+description = "Surprising to see a game in a tech stack, right? But there's a good reason why it's here - Minecraft was the main reason that brought me into computer science. It teached me the art of kludging, and I even decided to learn to code just so I could make mods for it. Needless to say that I still didn't made a single one :)"
 
 [spigot]
 name = "Spigot"
-description = "Back in the day, this was what cool kids used to run Minecraft servers. I never did run my own server back then, but I did wrote a ton of plugins for the spigot. It's the place where I got my unfortunate knowledge of Java."
+description = "Back in the day, this was what cool kids used to run Minecraft servers. I never did run my own server back then, but I did wrote a ton of plugins for the Spigot. It's the place where I got my unfortunate knowledge of Java."

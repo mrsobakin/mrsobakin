@@ -30,15 +30,15 @@ Befriended the borrow checker. Not the lifetimes though.
 Click to see things I wrote in Rust." height="32"></picture></a>
 <a href="https://github.com/mrsobakin?tab=repositories&q=&type=&language=c%2B%2B"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/cpp.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/cpp.svg"><img src="assets/icons/cpp.svg" alt="C++" title="C++" height="32"></picture></a>
 <a href="https://github.com/mrsobakin?tab=repositories&q=&type=&language=python"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/python.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/python.svg"><img src="assets/icons/python.svg" alt="Python" title="Python
-This is probably the language I wrote most code in. It is slow as hell, is full of runtime exceptions, but it's simple and gets the job done. This readme was generated with python!
-Click to see things I wrote in Python." height="32"></picture></a>
+This is probably the language I wrote most code in. It is slow as hell, is full of runtime exceptions, but it's simple and gets the job done. This readme was generated using Python!
+Click to see things I wrote in it." height="32"></picture></a>
 <a href="https://github.com/mrsobakin?tab=repositories&q=&type=&language=go"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/go.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/go.svg"><img src="assets/icons/go.svg" alt="Go" title="Go
 I love Go, but I think that I'm cursed. Every time, and I mean *EVERY* time that I decide to write something in Go, I have to reimplement basic things. I had to write my own MPMC channel once.
 Click to see things I wrote in Go." height="32"></picture></a>
 <a href="https://github.com/mrsobakin?tab=repositories&q=&type=&language=javascript"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/javascript.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/javascript.svg"><img src="assets/icons/javascript.svg" alt="Javascript" title="Javascript
 Javascript is so awful that its shittiness rolls over and it becomes good again." height="32"></picture></a>
 <a href="https://github.com/mrsobakin?tab=repositories&q=&type=&language=java"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/java.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/java.svg"><img src="assets/icons/java.svg" alt="Java" title="Java
-For better or for worse, Java was _the_ language I learned to code in. But now I hate it. Well, just as any other sane person." height="32"></picture></a>
+For better or for worse, Java was *the* language I learned to code in. But now I hate it. Well, just as any other sane person." height="32"></picture></a>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/sqlite.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/sqlite.svg"><img src="assets/icons/sqlite.svg" alt="SQLite" title="SQLite" height="32"></picture>
 <a href="https://github.com/mrsobakin/scripts"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/bash.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/bash_light.svg"><img src="assets/icons/bash.svg" alt="Bash" title="Bash
 I would like to say that I know bash, but I think that no one really does fully know it. I can write complex scripts, but I can never be sure that they won't break on some edge case.
@@ -69,10 +69,10 @@ Better than photoshop. Change my mind." height="32"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/qemu.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/qemu.svg"><img src="assets/icons/qemu.svg" alt="Qemu" title="Qemu" height="32"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/wireshark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/wireshark_light.svg"><img src="assets/icons/wireshark.svg" alt="Wireshark" title="Wireshark" height="32"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/mitmproxy.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/mitmproxy.svg"><img src="assets/icons/mitmproxy.svg" alt="mitmproxy" title="mitmproxy
-An important tool in my reverse engineering toolkit. Numerous bugs have been found and numerous services have been reverse engineered with its help." height="32"></picture>
+An important tool in my reverse engineering toolkit. Numerous bugs have been found and numerous services have been reverse engineered with it." height="32"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/minecraft.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/minecraft.svg"><img src="assets/icons/minecraft.svg" alt="Minecraft" title="Minecraft
-Surprising to see a game in a tech stack, right? But there's a good reason why it's here - Minecraft was the main reason that brought me into computer science. It teached me the art of kludging, and I even decided to learn to code just so I could make mods for it. Needless to say that I still didn't make a single one :)." height="32"></picture>
+Surprising to see a game in a tech stack, right? But there's a good reason why it's here - Minecraft was the main reason that brought me into computer science. It teached me the art of kludging, and I even decided to learn to code just so I could make mods for it. Needless to say that I still didn't made a single one :)" height="32"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/spigot.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/spigot.svg"><img src="assets/icons/spigot.svg" alt="Spigot" title="Spigot
-Back in the day, this was what cool kids used to run Minecraft servers. I never did run my own server back then, but I did wrote a ton of plugins for the spigot. It's the place where I got my unfortunate knowledge of Java." height="32"></picture>
+Back in the day, this was what cool kids used to run Minecraft servers. I never did run my own server back then, but I did wrote a ton of plugins for the Spigot. It's the place where I got my unfortunate knowledge of Java." height="32"></picture>
 </div>
 <div align="right"><sub>(<i>Hover on the icons to get more info</i> 😉)</sub></div>
