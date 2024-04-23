@@ -167,6 +167,7 @@ themed_icons = true
 [mitmproxy]
 name = "mitmproxy"
 description = "An important tool in my reverse engineering toolkit. Numerous bugs have been found and numerous services have been reverse engineered with it."
+themed_icons = true
 
 
 # Games :)
