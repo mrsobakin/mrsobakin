@@ -58,7 +58,8 @@ It's also fun to mess around with." height="32"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/ffmpeg.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/ffmpeg.svg"><img src="assets/icons/ffmpeg.svg" alt="FFmpeg" title="FFmpeg
 I still can't remember how to resize a video" height="32"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/wine.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/wine_light.svg"><img src="assets/icons/wine.svg" alt="Wine" title="Wine
-Except that I obviously use it, I am more or less familiar with its internals and the codebase. I tried to write my dlls with winelib, however I wasn't able to make it work with Rust. Better luck next time." height="32"></picture>
+Except that I obviously use it, I am more or less familiar with its internals and the codebase. I tried to compile WineLib dlls with Rust, however I faced a problem known as a skill issue (I'm just too stupid for it). WineLib itself is too obscure and undocumented, let alone a its usage with Rust. Better luck next time.
+(If you are familiar with WineLib and Rust and somehow reading this, please DM me. I would really appreciate your help!)" height="32"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/gimp.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/gimp.svg"><img src="assets/icons/gimp.svg" alt="GIMP" title="GIMP
 Better than photoshop. Change my mind." height="32"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/arduino.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/arduino.svg"><img src="assets/icons/arduino.svg" alt="Arduino" title="Arduino" height="32"></picture>

@@ -116,7 +116,8 @@ description = "I still can't remember how to resize a video"
 
 [wine]
 name = "Wine"
-description = "Except that I obviously use it, I am more or less familiar with its internals and the codebase. I tried to write my dlls with winelib, however I wasn't able to make it work with Rust. Better luck next time."
+description = """Except that I obviously use it, I am more or less familiar with its internals and the codebase. I tried to compile WineLib dlls with Rust, however I faced a problem known as a skill issue (I'm just too stupid for it). WineLib itself is too obscure and undocumented, let alone a its usage with Rust. Better luck next time.
+(If you are familiar with WineLib and Rust and somehow reading this, please DM me. I would really appreciate your help!)"""
 themed_icons = true
 
 [gimp]
