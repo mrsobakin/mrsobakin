@@ -40,7 +40,6 @@ Click to see things I wrote in Go." height="32"></picture></a>
 Javascript is so awful that its shittiness rolls over and it becomes good again." height="32"></picture></a>
 <a href="https://github.com/mrsobakin?tab=repositories&q=&type=&language=java"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/java.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/java.svg"><img src="assets/icons/java.svg" alt="Java" title="Java
 For better or for worse, Java was *the* language I learned to code in. But now I hate it. Well, just as any other sane person." height="32"></picture></a>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/sqlite.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/sqlite.svg"><img src="assets/icons/sqlite.svg" alt="SQLite" title="SQLite" height="32"></picture>
 <a href="https://github.com/mrsobakin/scripts"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/bash.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/bash_light.svg"><img src="assets/icons/bash.svg" alt="Bash" title="Bash
 I would like to say that I know bash, but I think that no one really does fully know it. I can write complex scripts, but I can never be sure that they won't break on some edge case.
 Click to go to repository with my useful scripts" height="32"></picture></a>

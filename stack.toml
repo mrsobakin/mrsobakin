@@ -58,9 +58,9 @@ link = "https://github.com/mrsobakin?tab=repositories&q=&type=&language=java"
 
 # Databases
 
-[sqlite]
-name = "SQLite"
-description = ""
+# [sqlite]
+# name = "SQLite"
+# description = ""
 
 
 # Devtools
