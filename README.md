@@ -22,7 +22,8 @@ Feel free to contact me on [<img src="assets/telegram.svg" height="16"> Telegram
 My daily driver, btw" height="32"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/linux.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/linux.svg"><img src="assets/icons/linux.svg" alt="Linux" title="Linux" height="32"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/i3.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/i3.svg"><img src="assets/icons/i3.svg" alt="i3" title="i3
-I'll switch to Sway. Some day. Eventually. Before very long. Sooner or later. In time to come. Certainly..." height="32"></picture>
+I̶'̶l̶l̶ ̶s̶w̶i̶t̶c̶h̶ ̶t̶o̶ ̶S̶w̶a̶y̶.̶ ̶S̶o̶m̶e̶ ̶d̶a̶y̶.̶ ̶E̶v̶e̶n̶t̶u̶a̶l̶l̶y̶.̶ ̶B̶e̶f̶o̶r̶e̶ ̶v̶e̶r̶y̶ ̶l̶o̶n̶g̶.̶ ̶S̶o̶o̶n̶e̶r̶ ̶o̶r̶ ̶l̶a̶t̶e̶r̶.̶ ̶I̶n̶ ̶t̶i̶m̶e̶ ̶t̶o̶ ̶c̶o̶m̶e̶.̶ ̶C̶e̶r̶t̶a̶i̶n̶l̶y̶.̶.̶.̶
+I actually did switch. Buuuuut, I'm to lazy to change the icon." height="32"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/alacritty.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/alacritty.svg"><img src="assets/icons/alacritty.svg" alt="Alacritty" title="Alacritty" height="32"></picture>
 <a href="https://github.com/mrsobakin?tab=repositories&q=&type=&language=rust"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/rust.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/rust_light.svg"><img src="assets/icons/rust.svg" alt="Rust" title="Rust
 💖🦀
@@ -47,7 +48,6 @@ Click to go to repository with my useful scripts" height="32"></picture></a>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/docker.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/docker.svg"><img src="assets/icons/docker.svg" alt="Docker" title="Docker" height="32"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/git.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/git.svg"><img src="assets/icons/git.svg" alt="Git" title="Git
 I know my `git push --force` and manual hunk editing around it. Though I'm nowhere near being a git master." height="32"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/github.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/github_light.svg"><img src="assets/icons/github.svg" alt="GitHub" title="GitHub" height="32"></picture>
 <a href="https://github.com/mrsobakin/nvim-config/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/nvim.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/nvim.svg"><img src="assets/icons/nvim.svg" alt="NeoVim" title="NeoVim
 Don't know what to say about it. I write text in NeoVim. I even wrote a plugin for it in it.
 Click to check out my NeoVim config (it will never be finished)" height="32"></picture></a>
@@ -61,14 +61,6 @@ I still can't remember how to resize a video" height="32"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/wine.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/wine_light.svg"><img src="assets/icons/wine.svg" alt="Wine" title="Wine
 Except that I obviously use it, I am more or less familiar with its internals and the codebase. I tried to compile WineLib dlls with Rust, however I faced a problem known as a skill issue (I'm just too stupid for it). WineLib itself is too obscure and undocumented, let alone a its usage with Rust. Better luck next time.
 (If you are familiar with WineLib and Rust and somehow reading this, please DM me. I would really appreciate your help!)" height="32"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/gimp.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/gimp.svg"><img src="assets/icons/gimp.svg" alt="GIMP" title="GIMP
-Better than photoshop. Change my mind." height="32"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/arduino.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/arduino.svg"><img src="assets/icons/arduino.svg" alt="Arduino" title="Arduino" height="32"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/tokio.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/tokio_light.svg"><img src="assets/icons/tokio.svg" alt="Tokio" title="Tokio" height="32"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/react.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/react.svg"><img src="assets/icons/react.svg" alt="React" title="React" height="32"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/fastapi.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/fastapi.svg"><img src="assets/icons/fastapi.svg" alt="FastAPI" title="FastAPI" height="32"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/flask.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/flask_light.svg"><img src="assets/icons/flask.svg" alt="Flask" title="Flask" height="32"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/qemu.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/qemu.svg"><img src="assets/icons/qemu.svg" alt="Qemu" title="Qemu" height="32"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/wireshark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/wireshark_light.svg"><img src="assets/icons/wireshark.svg" alt="Wireshark" title="Wireshark" height="32"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/mitmproxy.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/mitmproxy_light.svg"><img src="assets/icons/mitmproxy.svg" alt="mitmproxy" title="mitmproxy
 An important tool in my reverse engineering toolkit. Numerous bugs have been found and numerous services have been reverse engineered with it." height="32"></picture>
