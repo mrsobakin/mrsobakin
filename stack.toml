@@ -11,7 +11,7 @@ description = ""
 [i3]
 name = "i3"
 description = "I̶'̶l̶l̶ ̶s̶w̶i̶t̶c̶h̶ ̶t̶o̶ ̶S̶w̶a̶y̶.̶ ̶S̶o̶m̶e̶ ̶d̶a̶y̶.̶ ̶E̶v̶e̶n̶t̶u̶a̶l̶l̶y̶.̶ ̶B̶e̶f̶o̶r̶e̶ ̶v̶e̶r̶y̶ ̶l̶o̶n̶g̶.̶ ̶S̶o̶o̶n̶e̶r̶ ̶o̶r̶ ̶l̶a̶t̶e̶r̶.̶ ̶I̶n̶ ̶t̶i̶m̶e̶ ̶t̶o̶ ̶c̶o̶m̶e̶.̶ ̶C̶e̶r̶t̶a̶i̶n̶l̶y̶.̶.̶.̶
-I've actually did switch. Buuuuut, I'm to lazy to change the icon."
+I actually did switch. Buuuuut, I'm to lazy to change the icon."
 
 [alacritty]
 name = "Alacritty"
@@ -84,10 +84,10 @@ description = ""
 name = "Git"
 description = "I know my `git push --force` and manual hunk editing around it. Though I'm nowhere near being a git master."
 
-[github]
-name = "GitHub"
-description = ""
-themed_icons = true
+# [github]
+# name = "GitHub"
+# description = ""
+# themed_icons = true
 
 [nvim]
 name = "NeoVim"
@@ -121,44 +121,37 @@ description = """Except that I obviously use it, I am more or less familiar with
 (If you are familiar with WineLib and Rust and somehow reading this, please DM me. I would really appreciate your help!)"""
 themed_icons = true
 
-[gimp]
-name = "GIMP"
-description = "Better than photoshop. Change my mind."
-
-
-# Electrial engineering
-
-[arduino]
-name = "Arduino"
-description = ""
+# [gimp]
+# name = "GIMP"
+# description = "Better than photoshop. Change my mind."
 
 
 # Libraries, frameworks
 
-[tokio]
-name = "Tokio"
-description = ""
-themed_icons = true
-
-[react]
-name = "React"
-description = ""
-
-[fastapi]
-name = "FastAPI"
-description = ""
-
-[flask]
-name = "Flask"
-description = ""
-themed_icons = true
+# [tokio]
+# name = "Tokio"
+# description = ""
+# themed_icons = true
+#
+# [react]
+# name = "React"
+# description = ""
+#
+# [fastapi]
+# name = "FastAPI"
+# description = ""
+#
+# [flask]
+# name = "Flask"
+# description = ""
+# themed_icons = true
 
 
 # Reverse engineering
 
-[qemu]
-name = "Qemu"
-description = ""
+# [qemu]
+# name = "Qemu"
+# description = ""
 
 [wireshark]
 name = "Wireshark"
