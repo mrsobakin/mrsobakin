@@ -11,11 +11,7 @@ description = ""
 [i3]
 name = "i3"
 description = """I̶'̶l̶l̶ ̶s̶w̶i̶t̶c̶h̶ ̶t̶o̶ ̶S̶w̶a̶y̶.̶ ̶S̶o̶m̶e̶ ̶d̶a̶y̶.̶ ̶E̶v̶e̶n̶t̶u̶a̶l̶l̶y̶.̶ ̶B̶e̶f̶o̶r̶e̶ ̶v̶e̶r̶y̶ ̶l̶o̶n̶g̶.̶ ̶S̶o̶o̶n̶e̶r̶ ̶o̶r̶ ̶l̶a̶t̶e̶r̶.̶ ̶I̶n̶ ̶t̶i̶m̶e̶ ̶t̶o̶ ̶c̶o̶m̶e̶.̶ ̶C̶e̶r̶t̶a̶i̶n̶l̶y̶.̶.̶.̶
-I actually did switch. Buuuuut, I'm to lazy to change the icon."""
-
-[alacritty]
-name = "Alacritty"
-description = ""
+I actually did switch. Buuuuut, I'm too lazy to change the icon."""
 
 
 # Programming languages
@@ -57,10 +53,7 @@ link = "https://github.com/mrsobakin?tab=repositories&q=&type=&language=java"
 
 
 # Databases
-
-# [sqlite]
-# name = "SQLite"
-# description = ""
+# They're too boring. Who cares about databases anyway...
 
 
 # Devtools
@@ -80,14 +73,10 @@ description = ""
 name = "Docker"
 description = ""
 
-[git]
-name = "Git"
-description = "I know my `git push --force` and manual hunk editing around it. Though I'm nowhere near being a git master."
-
-# [github]
-# name = "GitHub"
-# description = ""
-# themed_icons = true
+# Come on... It's obvious that I use git.
+# [git]
+# name = "Git"
+# description = "I know my `git push --force` and manual hunk editing around it. Though I'm nowhere near being a git master."
 
 [nvim]
 name = "NeoVim"
@@ -113,21 +102,16 @@ themed_icons = true
 
 [ffmpeg]
 name = "FFmpeg"
-description = "I still can't remember how to resize a video"
+description = "Still can't remember how to resize a video 😉"
 
 [wine]
 name = "Wine"
-description = """Except that I obviously use it, I am more or less familiar with its internals and the codebase. I tried to compile WineLib dlls with Rust, however I faced a problem known as a skill issue (I'm just too stupid for it). WineLib itself is too obscure and undocumented, let alone a its usage with Rust. Better luck next time.
-(If you are familiar with WineLib and Rust and somehow reading this, please DM me. I would really appreciate your help!)"""
+description = """Except that I obviously use it, I am more or less familiar with its internals and the codebase. """
 themed_icons = true
-
-# [gimp]
-# name = "GIMP"
-# description = "Better than photoshop. Change my mind."
-
 
 # Libraries, frameworks
 
+# Booooring!
 # [tokio]
 # name = "Tokio"
 # description = ""
