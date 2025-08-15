@@ -43,7 +43,9 @@ For better or for worse, Java was *the* language I learned to code in. But now I
 I would like to say that I know bash, but I think that no one really does fully know it. I can write complex scripts, but I can never be sure that they won't break on some edge case.
 Click to go to repository with my useful scripts" height="32"></picture></a>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/lua.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/lua.svg"><img src="assets/icons/lua.svg" alt="Lua" title="Lua" height="32"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/docker.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/docker.svg"><img src="assets/icons/docker.svg" alt="Docker" title="Docker" height="32"></picture>
+<a href="https://github.com/mrsobakin/itmournament"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/docker.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/docker.svg"><img src="assets/icons/docker.svg" alt="Docker" title="Docker
+Click to see the cool submission judge I wrote for conducting the programming tournament at my university.
+It extensively leverages BuildKit and Docker power, using them for building and running the students submissions." height="32"></picture></a>
 <a href="https://github.com/mrsobakin/nvim-config/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/nvim.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/nvim.svg"><img src="assets/icons/nvim.svg" alt="NeoVim" title="NeoVim
 Don't know what to say about it. I write text in NeoVim. I even wrote a plugin for it in it.
 Click to check out my NeoVim config (it will never be finished)" height="32"></picture></a>

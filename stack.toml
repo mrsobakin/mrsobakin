@@ -71,7 +71,9 @@ description = ""
 
 [docker]
 name = "Docker"
-description = ""
+description = """Click to see the cool submission judge I wrote for conducting the programming tournament at my university.
+It extensively leverages BuildKit and Docker power, using them for building and running the students submissions."""
+link = "https://github.com/mrsobakin/itmournament"
 
 # Come on... It's obvious that I use git.
 # [git]
@@ -107,6 +109,7 @@ description = "Still can't remember how to resize a video 😉"
 [wine]
 name = "Wine"
 description = """Except that I obviously use it, I am more or less familiar with its internals and the codebase. """
+# TODO: add info about winenativedlg and winelib for rust
 themed_icons = true
 
 # Libraries, frameworks
