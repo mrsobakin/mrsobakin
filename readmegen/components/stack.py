@@ -10,15 +10,15 @@ def _link(base: str, link: str) -> str:
     return f"""<a href="{link}">{base}</a>"""
 
 
-def _icon_img(icon: Path, alt: str, tooltip: str) -> str:
+def _icon_img(icon: Path, alt: str, tooltip: str, size: int) -> str:
     if not icon.exists():
         raise ValueError(f"""The icon "{icon}" does not exist.""")
 
-    return f"""<img src="{icon}" alt="{alt}" title="{tooltip}" height="32">"""
+    return f"""<img src="{icon}" alt="{alt}" title="{tooltip}" height="{size}">"""
 
 
-def _icon_themed(light_icon: Path, dark_icon: Path, alt: str, tooltip: str) -> str:
-    base = _icon_img(dark_icon, alt, tooltip)
+def _icon_themed(light_icon: Path, dark_icon: Path, alt: str, tooltip: str, size: int = 32) -> str:
+    base = _icon_img(dark_icon, alt, tooltip, size)
 
     if not light_icon.exists():
         raise ValueError(f"""The icon "{light_icon}" does not exist.""")
@@ -26,8 +26,8 @@ def _icon_themed(light_icon: Path, dark_icon: Path, alt: str, tooltip: str) -> s
     return f"""<picture><source media="(prefers-color-scheme: dark)" srcset="{dark_icon}"><source media="(prefers-color-scheme: light)" srcset="{light_icon}">{base}</picture>"""
 
 
-def _icon(icon: Path, alt: str, tooltip: str) -> str:
-    return _icon_themed(icon, icon, alt, tooltip)
+def _icon(icon: Path, alt: str, tooltip: str, size: int = 32) -> str:
+    return _icon_themed(icon, icon, alt, tooltip, size)
 
 
 def generate(stack: Mapping[str, Any]) -> str:

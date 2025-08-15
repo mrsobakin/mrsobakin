@@ -14,7 +14,7 @@
 
 - 😎 239% Pretentious
 
-Feel free to contact me on [<img src="assets/telegram.svg" height="16"> Telegram](https://t.me/sbknnn).
+Feel free to contact me on [<img src="assets/telegram.svg" height="16"> Telegram](https://t.me/sbknnn) or in [<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/github.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/github_light.svg"><img src="assets/icons/github.svg" alt="GitHub" title="" height="16"></picture> issues](https://github.com/mrsobakin/mrsobakin/issues).
 
 ## 🔧 Tools that I use: 
 
