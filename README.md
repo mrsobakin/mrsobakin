@@ -18,7 +18,7 @@ Feel free to contact me on [<img src="assets/telegram.svg" height="16"> Telegram
 
 ## 🔧 Tools that I use: 
 
-<div id="tools"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/arch.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/arch.svg"><img src="assets/icons/arch.svg" alt="Arch Linux" title="Arch Linux
+<div id="tools" align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/arch.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/arch.svg"><img src="assets/icons/arch.svg" alt="Arch Linux" title="Arch Linux
 My daily driver, btw" height="32"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/linux.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/linux.svg"><img src="assets/icons/linux.svg" alt="Linux" title="Linux" height="32"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/i3.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/i3.svg"><img src="assets/icons/i3.svg" alt="i3" title="i3

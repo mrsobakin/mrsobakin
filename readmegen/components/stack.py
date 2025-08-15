@@ -31,7 +31,7 @@ def _icon(icon: Path, alt: str, tooltip: str) -> str:
 
 
 def generate(stack: Mapping[str, Any]) -> str:
-    component = """<div id="tools">"""
+    component = """<div id="tools" align="center">"""
 
     for tool, info in stack.items():
         name, desc = info["name"], info.get("description")
